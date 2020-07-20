@@ -9,6 +9,8 @@
             :items="3"
             :nav="false"
             :autoplay="true"
+            :dots="false"
+            :loop="true"
           >
             <div class="product-item">
               <div class="pi-pic">

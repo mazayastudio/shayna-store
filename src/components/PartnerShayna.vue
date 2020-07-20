@@ -2,7 +2,14 @@
   <!-- Partner Logo Section Begin -->
   <div class="partner-logo">
     <div class="container">
-      <carousel class="logo-carousel ">
+      <carousel
+        class="logo-carousel"
+        :items="5"
+        :nav="false"
+        :autoplay="true"
+        :dots="false"
+        :loop="true"
+      >
         <div class="logo-item">
           <div class="tablecell-inner">
             <img

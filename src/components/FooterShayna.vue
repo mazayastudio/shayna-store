@@ -4,7 +4,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-5">
-          <div class="footer-left">
+          <div
+            class="footer-left text-left"
+          >
             <div class="footer-logo">
               <a href="#"
                 ><img
@@ -52,7 +54,9 @@
         <div
           class="col-lg-3 offset-lg-1"
         >
-          <div class="footer-widget">
+          <div
+            class="footer-widget text-left"
+          >
             <h5>Information</h5>
             <ul>
               <li>
@@ -71,7 +75,9 @@
           </div>
         </div>
         <div class="col-lg-3">
-          <div class="footer-widget">
+          <div
+            class="footer-widget text-left"
+          >
             <h5>My Account</h5>
             <ul>
               <li>
@@ -100,14 +106,8 @@
         <div class="row">
           <div class="col-lg-12">
             <div class="copyright-text">
-              Copyright &copy;
-              <!-- <script>
-                document.write(
-                  new Date().getFullYear()
-                );
-              </script> -->
-              All rights reserved |
-              Shayna
+              Copyright &copy; 2020 All
+              rights reserved | Shayna
             </div>
           </div>
         </div>
