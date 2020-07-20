@@ -3,6 +3,7 @@
     <HeaderShayna />
     <HeroShayna />
     <WomenBanner />
+    <InstagramShayna />
   </div>
 </template>
 
@@ -10,6 +11,7 @@
 import HeaderShayna from "@/components/HeaderShayna.vue";
 import HeroShayna from "@/components/HeroShayna.vue";
 import WomenBanner from "@/components/WomenBanner.vue";
+import InstagramShayna from "@/components/InstagramShayna.vue";
 
 export default {
   name: "Home",
@@ -17,6 +19,7 @@ export default {
     HeaderShayna,
     HeroShayna,
     WomenBanner,
+    InstagramShayna,
   },
 };
 </script>
